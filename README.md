@@ -21,4 +21,4 @@ Zhang Q, Guo Y, Yan J, et al. Coupling Coordination Between Urban Development an
 ## Large-scale Remote Sensing Models
 ---
 Braham N A A, Albrecht C M, Mairal J, et al. Spectralearth: Training hyperspectral foundation models at scale[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
-[[PDF]](papers/SpectralEarth Training Hyperspectral Foundation Models at Scale.pdf) [Code](https://github.com/AABNassim/spectral_earth)
+[Code](https://github.com/AABNassim/spectral_earth) [PDF](papers/SpectralEarth Training Hyperspectral Foundation Models at Scale.pdf)
